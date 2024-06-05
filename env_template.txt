@@ -1,0 +1,11 @@
+# authentification token for Speckle
+SPECKLE_AUTH_TOKEN='xxx'
+
+# authentification token for Model APIs
+OPENAI_API_KEY='xxx'    
+ANTHROPIC_API_KEY = 'xxx'
+
+# Langsmith API Key
+LANGCHAIN_API_KEY='xxx'
+LANGCHAIN_PROJECT='xxx'
+LANGCHAIN_ENDPOINT='https://api.smith.langchain.com'
