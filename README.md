@@ -35,8 +35,8 @@ The `streamlit` module focuses on front-end components and includes:
 ### Setup Instructions
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/jjanixx/bim_ir_chat.git
+   cd bim_ir_chat
    ```
 
 2. **Create and Activate a Virtual Environment**
@@ -61,7 +61,7 @@ The `streamlit` module focuses on front-end components and includes:
 ### Running the Application
 To start the Streamlit server and interact with the prototype, use the following command:
    ```sh
-   streamlit run path_to_your_main_script.py
+   streamlit run 1_Speckle Data View.py
    ```
 
 ## Usage
