@@ -1,0 +1,12 @@
+env/
+__pycache__/
+.env
+embeddings/
+pandasai.log
+*.png
+*.log
+launch.json
+jsons/
+pages/archiv_pages/
+cache_*
+.DS_Store
